@@ -34,6 +34,7 @@ npm run dev
 ## Technologies Used
 
 - HTML, CSS, JavaScript and Phaser
+- Vite
 
 ## Project Reflection
 
