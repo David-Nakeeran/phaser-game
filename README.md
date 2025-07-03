@@ -36,25 +36,29 @@ npm run dev
 - HTML, CSS, JavaScript and Phaser
 - Vite
 
-## Project Reflection
+# Project Reflection
 
-🧠 Organisation and planning
-Pair programming
-Assets creation and sourcing
-Debugging together
-Constant team communication
+## 🧠 Organisation and planning
 
-🔍 What Went Well
-Quick Start with Phaser Launcher: The built-in tools helped us get productive quickly without worrying about setting up complex environments.
+- Pair programming
+- Assets creation and sourcing
+- Debugging together
+- Constant team communication
 
-Team Collaboration: Active and constant communication, along with efficient organization using a Trello board, helped us stay aligned and work smoothly in parallel.
+## 🔍 What Went Well
 
-Learning by Doing: Working hands-on with Phaser gave us a good understanding of game physics, asset management, and state transitions.
+- Quick Start with Phaser Launcher: The built-in tools helped us get productive quickly without worrying about setting up complex environments.
 
-🚧 Challenges Faced
-We had issues with asset paths that caused loading errors in the game. We worked together to trace the problem using the console and fixed the path references.
+- Team Collaboration: Active and constant communication, along with efficient organization using a Trello board, helped us stay aligned and work smoothly in parallel.
 
-🌱 Key Takeaways
-Use Templates Wisely: Starting with Phaser Launcher templates saved time and gave us structure.
+- Learning by Doing: Working hands-on with Phaser gave us a good understanding of game physics, asset management, and state transitions.
 
-Learn to Read the Docs: Phaser’s documentation and examples were incredibly valuable once we got familiar with them.
+## 🚧 Challenges Faced
+
+- We had issues with asset paths that caused loading errors in the game. We worked together to trace the problem using the console and fixed the path references.
+
+## 🌱 Key Takeaways
+
+- Use Templates Wisely: Starting with Phaser Launcher templates saved time and gave us structure.
+
+- Learn to Read the Docs: Phaser’s documentation and examples were incredibly valuable once we got familiar with them.
