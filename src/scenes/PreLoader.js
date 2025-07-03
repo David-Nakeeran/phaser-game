@@ -24,12 +24,19 @@ export class Preloader extends Phaser.Scene {
   preload() {
     //  Load the assets for the game - Replace with your own assets
     this.load.setPath("./images");
-    this.load.image("sky", "sky.png");
-    this.load.image("ground", "platform.png");
-    this.load.image("star", "star.png");
-    this.load.image("bomb", "bomb.png");
-    this.load.spritesheet("dude", "dude.png", {
-      frameWidth: 32,
+    this.load.image("sky", "throne.png");
+    this.load.image("tombstone", "tombstone.png");
+    this.load.image("cross", "cross.png");
+    this.load.image("rail", "rail.png");
+    // this.load.image("ground", "platform.png");
+    this.load.image("ground", "newplatform.png");
+    // this.load.image("star", "star.png");
+    this.load.image("star", "bloodorb.png");
+    // this.load.image("bomb", "bomb.png");
+    this.load.image("bomb", "skull.png");
+    this.load.spritesheet("dude", "red.png", {
+      // width was 32
+      frameWidth: 48,
       frameHeight: 48,
     });
   }

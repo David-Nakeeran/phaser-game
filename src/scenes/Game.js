@@ -9,6 +9,14 @@ export class Game extends Phaser.Scene {
   create() {
     this.add.image(400, 300, "sky");
 
+    this.add.image(200, 504, "tombstone");
+    this.add.image(200, 201, "tombstone");
+
+    this.add.image(600, 357, "cross");
+
+    this.add.image(784, 504, "rail");
+    this.add.image(15, 504, "rail");
+
     this.platforms = this.physics.add.staticGroup();
 
     this.platforms.create(400, 568, "ground").setScale(2).refreshBody();
